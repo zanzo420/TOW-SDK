@@ -1,2 +1,2 @@
-# zrOW-SDK
-An SDK for "The Outer Worlds" (Windows Store Version), generated with CorrM's ___Ureal Finder Tool___ [Maintained by Zanzo]
+# TOW-SDK
+An SDK for ___The Outer Worlds (___ _Windows Store Version_ ___)___. `[Maintained by Zanzo]`
